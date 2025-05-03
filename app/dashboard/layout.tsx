@@ -8,7 +8,7 @@ async function getData({
   email,
   id,
   firstName,
-  lastName,
+  lastName,  
   profileImage,
 }: {
   email: string;
